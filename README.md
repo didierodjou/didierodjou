@@ -1,6 +1,6 @@
 # Salut, je suis Didier
 
-**Ingénieur en Sécurité Informatique** diplômé (avec mention) de l'Université Technique d'État du Don (DSTU, Russie).
+**Ingénieur en Sécurité Informatique** diplômé de l'Université Technique d'État du Don (DSTU, Russie).
 
 Double expertise en infrastructures IT et cybersécurité : réseaux (Cisco, Linux), sécurisation des systèmes (audit, cryptographie), et DevOps (Python, C#).
 
